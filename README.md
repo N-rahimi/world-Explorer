@@ -213,7 +213,7 @@ This project is created for educational purposes as part of a Next.js assignment
 👨‍💻 Author
 Your Name
 
-GitHub: @yourusername
+GitHub: @N-rahimi
 
 🙏 Acknowledgments
 REST Countries API for providing free country data
@@ -223,7 +223,7 @@ Next.js team for the amazing framework
 FlagCDN for flag images
 
 <div align="center">
-Made with ❤️ using Next.js
+Made with 🤍 using Next.js
 
 </div> ```
 ````
